@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mpcie)(type KiCad)(uri "$(KIPRJMOD)/kicad-mini-pci-express-master/mpcie.pretty")(options "")(descr ""))
+)
